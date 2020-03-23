@@ -38,12 +38,7 @@
     font-weight: normal;
     background-color: #fafafa;
   }
-  .pannel p{
-    line-height: 1.8;
-    color:#777;
-    font-size: 14px;
-    padding: 15px;
-  }
+  .pannel p{ line-height: 1.8; color:#777; font-size: 14px; padding: 15px; }
 </style>
 <script>
 import jsonp from '../assets/js/jsonp'
